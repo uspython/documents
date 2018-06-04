@@ -1,6 +1,7 @@
 # documents
 翻译的文档
 
+\- [Core Image 编程指南（中） Core Image Programming Guide](http://www.zhaojianfei.com/archives/746)  
 \- [Core Image 编程指南（上） Core Image Programming Guide](http://www.zhaojianfei.com/archives/740)  
 \- [AVFoundation 编程指南（上） AVFoundation programming guide](http://zhaojianfei.con/archives/730)  
 \- [Framework 编程指南文档笔记 （下）创建 framework 指南， FrameWork Progremming Guide](http://www.zhaojianfei.com/archives/716)  
