@@ -1,6 +1,7 @@
 # documents
 翻译的文档
 
+\- [如何自定义Core Image Filter——Core Image 编程指南（下） Core Image Programming Guide](http://www.zhaojianfei.com/archives/756)  
 \- [Core Image 编程指南（中） Core Image Programming Guide](http://www.zhaojianfei.com/archives/746)  
 \- [Core Image 编程指南（上） Core Image Programming Guide](http://www.zhaojianfei.com/archives/740)  
 \- [AVFoundation 编程指南（上） AVFoundation programming guide](http://zhaojianfei.con/archives/730)  
